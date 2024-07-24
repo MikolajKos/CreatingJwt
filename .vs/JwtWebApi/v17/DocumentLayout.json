@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\JwtWebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C829053-BB6B-4AE1-BEEA-31897B129E5C}|JwtWebApi\\JwtWebApi.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\jwtwebapi\\jwtwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C829053-BB6B-4AE1-BEEA-31897B129E5C}|JwtWebApi\\JwtWebApi.csproj|solutionrelative:jwtwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C829053-BB6B-4AE1-BEEA-31897B129E5C}|JwtWebApi\\JwtWebApi.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\jwtwebapi\\jwtwebapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C829053-BB6B-4AE1-BEEA-31897B129E5C}|JwtWebApi\\JwtWebApi.csproj|solutionrelative:jwtwebapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C829053-BB6B-4AE1-BEEA-31897B129E5C}|JwtWebApi\\JwtWebApi.csproj|c:\\users\\nikok\\onedrive\\dokumenty\\programowanie\\teddy smith asp\\jwtwebapi\\jwtwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C829053-BB6B-4AE1-BEEA-31897B129E5C}|JwtWebApi\\JwtWebApi.csproj|solutionrelative:jwtwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\JwtWebApi\\JwtWebApi\\Models\\User.cs",
               "RelativeDocumentMoniker": "JwtWebApi\\Models\\User.cs",
@@ -26,7 +34,33 @@
               "RelativeToolTip": "JwtWebApi\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T12:35:31.299Z",
+              "WhenOpened": "2024-07-24T13:26:15.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\JwtWebApi\\JwtWebApi\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "JwtWebApi\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\JwtWebApi\\JwtWebApi\\Models\\UserDto.cs",
+              "RelativeToolTip": "JwtWebApi\\Models\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:10:37.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\JwtWebApi\\JwtWebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtWebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\JwtWebApi\\JwtWebApi\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "JwtWebApi\\Controllers\\AuthController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:03:17.541Z",
               "EditorCaption": ""
             }
           ]
