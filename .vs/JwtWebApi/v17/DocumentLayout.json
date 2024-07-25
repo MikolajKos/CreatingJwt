@@ -34,8 +34,7 @@
               "RelativeToolTip": "JwtWebApi\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:26:15.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T13:26:15.337Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "JwtWebApi\\Models\\UserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:10:37.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T13:10:37.944Z"
             },
             {
               "$type": "Document",
@@ -56,9 +54,9 @@
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\JwtWebApi\\JwtWebApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "JwtWebApi\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\JwtWebApi\\JwtWebApi\\Controllers\\AuthController.cs*",
-              "RelativeToolTip": "JwtWebApi\\Controllers\\AuthController.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ToolTip": "C:\\Users\\nikok\\OneDrive\\Dokumenty\\PROGRAMOWANIE\\Teddy Smith ASP\\JwtWebApi\\JwtWebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtWebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T13:03:17.541Z",
               "EditorCaption": ""
